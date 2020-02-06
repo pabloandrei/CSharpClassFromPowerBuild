@@ -1,0 +1,8 @@
+/home/andrei/Workspace/CSharpClassToPowerBuilder/ClassToPowerBuilder/bin/Debug/netstandard2.0/ClassToPowerBuilder.deps.json
+/home/andrei/Workspace/CSharpClassToPowerBuilder/ClassToPowerBuilder/bin/Debug/netstandard2.0/ClassToPowerBuilder.dll
+/home/andrei/Workspace/CSharpClassToPowerBuilder/ClassToPowerBuilder/bin/Debug/netstandard2.0/ClassToPowerBuilder.pdb
+/home/andrei/Workspace/CSharpClassToPowerBuilder/ClassToPowerBuilder/obj/Debug/netstandard2.0/ClassToPowerBuilder.csprojAssemblyReference.cache
+/home/andrei/Workspace/CSharpClassToPowerBuilder/ClassToPowerBuilder/obj/Debug/netstandard2.0/ClassToPowerBuilder.AssemblyInfoInputs.cache
+/home/andrei/Workspace/CSharpClassToPowerBuilder/ClassToPowerBuilder/obj/Debug/netstandard2.0/ClassToPowerBuilder.AssemblyInfo.cs
+/home/andrei/Workspace/CSharpClassToPowerBuilder/ClassToPowerBuilder/obj/Debug/netstandard2.0/ClassToPowerBuilder.dll
+/home/andrei/Workspace/CSharpClassToPowerBuilder/ClassToPowerBuilder/obj/Debug/netstandard2.0/ClassToPowerBuilder.pdb
